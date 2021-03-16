@@ -1,0 +1,15 @@
+{
+  "name": "dark-souls",
+  "version": "1.0.0",
+  "description": "A Dark Souls 1 API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1"
+  }
+}
